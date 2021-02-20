@@ -34,4 +34,4 @@ THEN I find a concise, descriptive title
 
 ## My Result
 
-I refactored the code to the best of my current ability. For example, when one views the title element they find a concise, descriptive title. This will increase Horiseon's SEO because their site now mentions their name more often. Search engines rank a website higher if it mentions what the searcher is searching for more frequently. By mentioning Horiseon's name more frequently, Horiseon's SEO will likely increase. 
+I refactored the code for Horiseon. The codebase now follows accessiblity standards. The site is optimized for search engines. 
